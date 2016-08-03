@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-03T17:12:38.919Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/88561720-ebd9-4290-bdc3-8825a53b4cc5.jpg
+datePublished: '2016-08-03T18:12:19.101Z'
 author: []
 via: {}
-dateModified: '2016-08-03T17:03:28.577Z'
+dateModified: '2016-08-03T18:12:18.709Z'
 title: ''
 publisher: {}
 description: >-
@@ -17,12 +15,11 @@ description: >-
   teenager he found something to focus his overflowing artistic propensity
   toward - Rock ’n’ roll. He picked up the bass guitar and completely immersed
   himself into music.
-starred: false
 sourcePath: >-
   _posts/2016-08-03-ryan-was-born-and-raised-on-the-outskirts-of-the-bay-area-in.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: ryan-was-born-and-raised-on-the-outskirts-of-the-bay-area-in/index.html
 _type: MediaObject
 
 ---
