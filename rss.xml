@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ryan Burchfield Photography]]></title>
         <description><![CDATA[Ryan Burchfield Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ryan-burchfield-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 17:12:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 17:12:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ryan-burchfield-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aadde8aa-a305-49ab-b20a-3a0f67698b45.jpg">]]></description>
+            <link>https://thegrid.ai/ryan-burchfield-photography/04607152-c21f-4944-9c45-efc7a12c324a/index.html</link>
+            <guid isPermaLink="false">04607152-c21f-4944-9c45-efc7a12c324a</guid>
+            <pubDate>Wed, 03 Aug 2016 17:12:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57ef74ee-54f1-46d2-815a-61267837fb33.jpg">]]></description>
-            <link>undefinedf99375b3-4ebe-4549-abe0-1e16a10a009b/index.html</link>
+            <link>https://thegrid.ai/ryan-burchfield-photography/f99375b3-4ebe-4549-abe0-1e16a10a009b/index.html</link>
             <guid isPermaLink="false">f99375b3-4ebe-4549-abe0-1e16a10a009b</guid>
             <pubDate>Wed, 03 Aug 2016 17:12:35 GMT</pubDate>
         </item>
