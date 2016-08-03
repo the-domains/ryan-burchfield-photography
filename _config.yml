@@ -12,10 +12,4 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 name: Ryan Burchfield Photography
-navigation:
-  - name: About
-    id: 9cb7402c-50f7-4572-83ff-f9762ecf6634
-    type: content
-  - name: ' '
-    id: 04607152-c21f-4944-9c45-efc7a12c324a
-    type: content
+navigation: []
