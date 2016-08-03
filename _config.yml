@@ -12,3 +12,7 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 name: Ryan Burchfield Photography
+navigation:
+  - name: Home Portfolio About
+    id: 1f1aab80-118f-40dd-82ca-d92e76f17e83
+    type: content
